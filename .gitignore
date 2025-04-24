@@ -1,0 +1,8 @@
+.env
+node_modules/
+
+# Ignore all files in Models folder
+Models/*
+
+# Except movie.model.js
+!Models/movie.model.js
