@@ -25,7 +25,7 @@ A RESTful API to manage and explore a catalog of movies. Built with **Node.js**,
 
 ## 📁 Project Structure
 
-MONGODB/ ├── db/ │ └── db.conoect.js ├── Models/ │ ├── car.model.js │ ├── movie.model.js │ ├── students.model.js │ └── twitterProfile.model.js ├── .env ├── .gitignore ├── index.js ├── movie.json ├── package.json ├── package-lock.json └── README.md
+MONGODB/ ├── db/ │ └── db.conoect.js ├── Models/ │ ├── car.model.js │ ├── movie.model.js │  ├── .env ├── .gitignore ├── index.js ├── movie.json ├── package.json ├── package-lock.json └── README.md
 
 
 
